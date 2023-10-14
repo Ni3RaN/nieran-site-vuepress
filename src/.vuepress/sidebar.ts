@@ -15,11 +15,5 @@ export default sidebar({
       prefix: "Narcissus/",
       children: "structure",
     },
-    {
-      text: "文档",
-      icon: "book",
-      prefix: "guide/",
-      children: "structure",
-    },
   ],
 });

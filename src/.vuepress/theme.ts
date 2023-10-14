@@ -3,18 +3,18 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://nieran.site",
+  hostname: "https://www.nieran.site",
 
   author: {
     name: "NieRaN",
-    url: "https://nieran.site",
+    url: "https://www.nieran.site",
   },
 
   iconAssets: "fontawesome-with-brands",
 
   logo: "/logo.svg",
 
-  repo: "Ni3RaN/nieran-sitevuepress",
+  repo: "Ni3RaN/nieran-site-vuepress",
 
   docsDir: "src",
 
@@ -26,7 +26,7 @@ export default hopeTheme({
 
   footer: "默认页脚",
 
-  displayFooter: true,
+  displayFooter: false,
 
   encrypt: {
     config: {

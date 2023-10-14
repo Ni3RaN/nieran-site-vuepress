@@ -12,9 +12,9 @@ export default navbar([
     icon: "laptop-code",
     link: "/Narcissus"
   },
-  {
-    text: "V2 文档",
-    icon: "book",
-    link: "https://theme-hope.vuejs.press/zh/"
-  },
+  // {
+  //   text: "V2 文档",
+  //   icon: "book",
+  //   link: "https://theme-hope.vuejs.press/zh/"
+  // },
 ]);

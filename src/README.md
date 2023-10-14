@@ -6,11 +6,16 @@ bgImageStyle:
   background-attachment: fixed
 heroText: NieRaN
 tagline: 
+  - 喜欢项目管理&喜欢李庚希
 
 actions:
+  - text: 访问我的博客
+    link: /Tutorial
+
   - text: 访问我的Github
     link: https://github.com/Ni3RaN
     type: primary
+
 
 
 
