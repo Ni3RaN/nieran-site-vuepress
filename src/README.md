@@ -6,7 +6,7 @@ bgImageStyle:
   background-attachment: fixed
 heroText: NieRaN
 tagline: 
-  - 喜欢项目管理&喜欢李庚希
+  - 回忆理想不够理想&无法知无不言
 
 actions:
   - text: 访问我的博客
